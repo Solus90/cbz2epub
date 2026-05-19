@@ -4,6 +4,8 @@ Convert CBZ comic archives to fixed-layout EPUB3. Works as a CLI tool or a local
 
 No external dependencies for the core converter — stdlib only.
 
+![cbz2epub web UI](assets/screenshot.png)
+
 ## Web UI
 
 ```bash
